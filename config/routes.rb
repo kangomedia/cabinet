@@ -3,5 +3,5 @@ Rails.application.routes.draw do
 
   root 'welcome#index'
 
-  resources :doc
+  resources :docs
 end
